@@ -1,0 +1,23 @@
+{
+  "name": "lite-http-error",
+  "version": "1.0.0",
+  "description": "Minimalist error class for logging messages with HTTP statuscode",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sankety/lite-http-error.git"
+  },
+  "keywords": [
+    "express",
+    "http-error"
+  ],
+  "author": "Sanket Yewale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sankety/lite-http-error/issues"
+  },
+  "homepage": "https://github.com/sankety/lite-http-error#readme"
+}
